@@ -1,7 +1,7 @@
 # moviedata
 Movie Data Analysis for the Next Movie Selection in a Budget of a Hypothetical Production Firm 
 
-The project assignment of Data Science Research Method Module at Sussex University,
+The project is the assignment of Data Science Research Method Module at Sussex University,
 
 Instructions are as follows:
 
