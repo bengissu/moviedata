@@ -1,9 +1,5 @@
 ## Movie Data Analysis for the Next Movie Selection in a Budget
 
-**Repository:** [bengissu/moviedata](https://github.com/bengissu/moviedata)  
-**Owner:** bengissu
-
----
 
 ## Overview
 
@@ -96,11 +92,6 @@ As a data scientist at **SussexBudgetProductions**, you are tasked with analyzin
 
 ---
 
-## Acknowledgements
-
-This project is part of the **Data Science Research Method Module** at **Sussex University**. The analysis and recommendations are based on publicly available IMDB data, converted to GBP for uniformity.
-
----
 
 ## Contact
 
